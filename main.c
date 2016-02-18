@@ -3,7 +3,7 @@
 
 int main(void) {
 
-	parintf("%d\n", sum(3, 2));
+	printf("%d\n", sum(3, 2));
 
 	return 0;
 }
